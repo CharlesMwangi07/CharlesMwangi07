@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CharlesMwangi07
 - 👀 I’m interested in full stack web development software programming
 
-- 🌱 I’m currently learning Data science
+- 🌱  Data scientist
 - 💞️ I’m looking to collaborate on building best websites to cater for the modern based society.
 - 📫 How to reach me  charlesmwagi54@gmail.com
 
